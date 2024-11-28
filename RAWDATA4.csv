@@ -1,0 +1,12 @@
+﻿CATEGORY_ID,CATEGORY_DESC,COMMENTS
+10,BREAKFAST,Breakfast items
+15,SENIORS MEALS,Seniors Meals
+20,DINNER,Dinner items
+25,DINNER ALA,Dinner a-la carte items
+30,LUNCH,Lunch items
+40,SOUP SALAD,Soup and Salads
+45,KIDS,Kids Meals
+50,BEVERAGE,Beverages
+55,DESSERTS,Desserts
+60,BRKFST ALA,Breakfast a-la carte items
+99,LUNCH ALA,Lunch a-la carte items
